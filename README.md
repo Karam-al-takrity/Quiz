@@ -6,6 +6,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `npm run server`
+Please run the following command and dont forget it
+It's responsible for making a server to fetch questions inorder for the quiz to work without this command you will have some proplems with the main project 
+
+Note : You might need to run the following command : "npm i json-server"
+
 ### `npm start`
 
 Runs the app in the development mode.\
